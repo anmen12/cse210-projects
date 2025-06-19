@@ -1,0 +1,4 @@
+200
+Checklist~|~Checklist Goal~|~False~|~1~|~50~|~10~|~500~|~50~|~yes~|||~50
+Eternal~|~Eternal Goal~|~1~|~50~|~0~|~0~|~50~|~yes~|||~50
+Simple~|~Simple Goal~|~True~|~100~|~yes~|||~100
